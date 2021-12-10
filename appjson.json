@@ -49,38 +49,38 @@
       "id" : 0,
       "imageURL" : "https://raw.githubusercontent.com/medsouli/QueeN/main/coveriptv.png",
       "state" : "free",
-      "title" : "Popular Maps and Modes and How to Progress Quickly",
+      "title" : "What is IPTV?",
       "description" : "",
-      "written" : "This Mode is likewise referred to as the survival mode. Modes and maps are based upon the players attempting to survive what the map tosses at them. The group includes 3 methods and twelve maps. "
+      "written" : "From a TV watcher's point of view, IPTV is very simple: instead of receiving TV programs as broadcast signals that enter your home from a rooftop antenna, satellite dish, or fiber-optic cable, you get them streamed (downloaded and played almost simultaneously) through your Internet connection. Although IPTV can work on relatively slow ADSL broadband connections, which can probably handle only 1–10 Mbps (million bits per second—roughly the amount of information in an average novel entering your computer every second), it's much better on fiber broadband lines with about 10 times higher bandwidth (information carrying capacity) of maybe 10–100Mbps. You watch the program either on your computer, a mobile device (like a smartphone), or with a set-top box (a kind of adapter that fits between your Internet connection and your existing television receiver, decoding incoming signals so your TV can display Internet programs).From the viewpoint of a broadcaster or telephone company, IPTV is somewhat more complex. You need a sophisticated storage system for all the videos you want to make available and a web-style interface that allows people to select the programs they want. Once a viewer has selected a program, you need to be able to encode the video file in a suitable format for streaming, encrypt it (encoding it so only people who've paid can decode and receive it), embed advertisements (especially if the program is free), and stream it across the Internet to anything from one person to (potentially) thousands or millions of people at a time. Furthermore, you have to figure out how to do this to provide a consistently high-quality picture (especially if you're delivering advertising with your programming—because that's what your paying advertisers will certainly expect)."
     },
     {
       "id" : 1,
       "imageURL" : "https://raw.githubusercontent.com/medsouli/QueeN/main/coveriptv.png",
       "state" : "free",
-      "title" : "Stepping Stone Mode ",
+      "title" : "What is the use of IPTV?",
       "description" : " ",
-      "written" : "This Mode is based on the seventh episode of the squid video game show where the entrants are forced to select between two pieces of glass: the one that will bear their weight and the other that will split under their weight and trigger them to be removed. This design has an impressive 6 maps that can be played. The six maps consist of three short and 3 long maps based on the count of players. The primary map is the glass jump based on the show islands, which resembles the glass map except for this place above the ocean. The platform breaking leads to a shivery and frozen elimination. The last design of this map Is icy islands, an island where whatever is covered with ice, leading to a slippery surface. "
+      "written" : "Internet TV and IPTV have one major difference – the method in which they are broadcast. Internet TV is offered on a public domain, while IPTV is on a private network. This does mean that the content is protected and the speed might be a little faster, but that comes at a cost that many people are not willing to pay"
     },
     {
       "id" : 2,
       "imageURL" : "https://raw.githubusercontent.com/medsouli/QueeN/main/coveriptv.png",
       "state" : "free",
-      "title" : "Red Light Green Light ",
+      "title" : "How can I watch IPTV for free?",
       "description" : " ",
-      "written" : " This design has an impressive 6 maps that can be played. The six maps consist of three short and 3 long maps based on the count of players. The primary map is the glass jump based on the show islands, which resembles the glass map except for this place above the ocean. The platform breaking leads to a shivery and frozen elimination. The last design of this map is icy islands, an island where whatever is covered with ice, leading to a slippery surface."
+      "written" : "Rayo IPTV is a new free IPTV app that works with Amazon FireStick and Android devices. The app is easy to use, has a user-friendly interface, and hosts over 100 OTT channels and satellite channels. Rayo IPTV is a great option to stream your favorite news and weather channels."
     },
     {
       "id" : 3,
       "imageURL" : "https://raw.githubusercontent.com/medsouli/QueeN/main/coveriptv.png",
       "state" : "free",
-      "title" : "LAST THOUGHTS ",
+      "title" : "What is the difference between IPTV and Internet TV?",
       "description" : " ",
-      "written" : "The next Mode is based on the first episode of squid video game: red light green light and has three maps dessert. This map is a reproduction of the map in the program where therea( 's just a big empty area that you need to travel during the green light stages and stop entirely during the red•light phases. Moving your mouse to move your gameraf 's cam does count as motion and will get you eliminated. "
+      "written" : "Internet TV and IPTV have one major difference – the method in which they are broadcast. Internet TV is offered on a public domain, while IPTV is on a private network. This does mean that the content is protected and the speed might be a little faster, but that comes at a cost that many people are not willing to pay."
     },
     {
       "id" : 4,
       "imageURL" : "https://raw.githubusercontent.com/medsouli/QueeN/main/coveriptv.png",
-      "state" : "free",
+      "state" : "vip",
       "title" : "Floors Lava Mode vip",
       "description" : " ",
       "written" : "This mode has 3 maps; crusty rocks, ice rocks, and lava lake. The gameplay of this Mode resembles stepping stone mode except that Instead of trying it to make from one place to another, the only land available is a platform. They randomly fall throughout the round forcing garners to remain concentrated and be prepared to jump forum at any given minute or be eliminated."
